@@ -1,2 +1,2 @@
 # ARKO-MIPS
-Cieniowanie Gorauda architektura MIPS (program: MARS)
+Cieniowanie Gourauda architektura MIPS (program: MARS)
